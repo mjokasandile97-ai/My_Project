@@ -1,1 +1,1 @@
-# My_Project
+This project calculates simple interest
